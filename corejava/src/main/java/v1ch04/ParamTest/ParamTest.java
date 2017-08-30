@@ -3,6 +3,8 @@
  * @version 1.00 2000-01-27
  * @author Cay Horstmann
  */
+
+
 public class ParamTest
 {
    public static void main(String[] args)
@@ -20,7 +22,7 @@ public class ParamTest
        * Test 2: Methods can change the state of object parameters
        */
       System.out.println("\nTesting tripleSalary:");
-      Employee harry = new Employee("Harry", 50000);
+      Employee3 harry = new Employee3("Harry", 50000);
       System.out.println("Before: salary=" + harry.getSalary());
       tripleSalary(harry);
       System.out.println("After: salary=" + harry.getSalary());
@@ -29,8 +31,8 @@ public class ParamTest
        * Test 3: Methods can't attach new objects to object parameters
        */
       System.out.println("\nTesting swap:");
-      Employee a = new Employee("Alice", 70000);
-      Employee b = new Employee("Bob", 60000);
+      Employee3 a = new Employee3("Alice", 70000);
+      Employee3 b = new Employee3("Bob", 60000);
       System.out.println("Before: a=" + a.getName());
       System.out.println("Before: b=" + b.getName());
       swap(a, b);
@@ -44,15 +46,15 @@ public class ParamTest
       System.out.println("End of method: x=" + x);
    }
 
-   public static void tripleSalary(Employee x) // works
+   public static void tripleSalary(Employee3 x) // works
    {
       x.raiseSalary(200);
       System.out.println("End of method: salary=" + x.getSalary());
    }
 
-   public static void swap(Employee x, Employee y)
+   public static void swap(Employee3 x, Employee3 y)
    {
-      Employee temp = x;
+      Employee3 temp = x;
       x = y;
       y = temp;
       System.out.println("End of method: x=" + x.getName());
@@ -60,12 +62,12 @@ public class ParamTest
    }
 }
 
-class Employee // simplified Employee class
+class Employee3 // simplified Employee class
 {
    private String name;
    private double salary;
 
-   public Employee(String n, double s)
+   public Employee3(String n, double s)
    {
       name = n;
       salary = s;

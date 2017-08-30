@@ -14,7 +14,7 @@ public class PackageTest
    {
       // because of the import statement, we don't have to use 
       // com.horstmann.corejava.Employee here
-      Employee harry = new Employee("Harry Hacker", 50000, 1989, 10, 1);
+      Employee2 harry = new Employee2("Harry Hacker", 50000, 1989, 10, 1);
 
       harry.raiseSalary(5);
 

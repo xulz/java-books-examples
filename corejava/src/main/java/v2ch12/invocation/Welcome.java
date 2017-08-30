@@ -2,6 +2,8 @@
  * @version 1.20 2004-02-28
  * @author Cay Horstmann
  */
+package invocation;
+
 public class Welcome
 {
    public static void main(String[] args)

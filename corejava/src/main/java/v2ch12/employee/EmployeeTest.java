@@ -3,6 +3,8 @@
  * @author Cay Horstmann
  */
 
+package employee;
+
 public class EmployeeTest
 {
    public static void main(String[] args)
