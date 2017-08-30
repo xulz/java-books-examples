@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corejava.iml" filepath="$PROJECT_DIR$/.idea/modules/corejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corejava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/corejava_main.iml" group="corejava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/corejava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/corejava_test.iml" group="corejava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-books-examples.iml" filepath="$PROJECT_DIR$/.idea/java-books-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcip.iml" filepath="$PROJECT_DIR$/.idea/modules/jcip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcip_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jcip_main.iml" group="jcip" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcip_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jcip_test.iml" group="jcip" />
+    </modules>
+  </component>
+</project>
