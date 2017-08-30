@@ -17,6 +17,34 @@
       <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch03/LotteryOdds" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch03/Retirement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch03/Retirement2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch04/CalendarTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch04/ConstructorTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch04/EmployeeTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch04/PackageTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch04/ParamTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch04/StaticTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v1ch14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../corejava/src/main/java/v2ch12" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
